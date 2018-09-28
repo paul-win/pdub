@@ -1,0 +1,90 @@
+Paul Winterbauer
+Cincinnati, Ohio USA
+
+------------------------------------------------------------------
+Summary
+
+Experienced full stack developer seeking exciting next step after 13 year career at the Smithsonian.
+
+------------------------------------------------------------------
+Technical Skills
+
+MySQL Relational Database Management (13 years):
+    * Database design, performance tuning, schema modification, data migration 
+    * Performant SQL querying, SQL scripting
+
+Python Back End Application Development (5 years):
+    * Flask web applications and APIs, scripting
+
+Javascript Front End Application Development (5 years):
+    * Backbone.js single page applications
+    * jQuery, Underscore.js, Handlebars.js
+    * Bootstrap, HTML, CSS
+    
+Development Tools:
+    * Working knowledge of Git, Linux, Bash, Vim (5 years)
+    
+Legacy Skills:
+    * VB.NET desktop application development
+    * MS Office VBA automation/application development
+    
+------------------------------------------------------------------
+Soft Skills
+    * Self directed: able to set goals and implement solutions independently
+    * Skillful communicator: able to communicate with non-technical audiences
+    * Supportive team member: eager to both help and learn from others
+    * Self taught: excited to continue learning new technologies and techniques
+    
+------------------------------------------------------------------
+Experience
+
+Smithsonian Institution 
+National Ballast Information Clearinghouse (NBIC)
+IT Specialist: 2005-Present
+
+Summary:
+The NBIC, overseen by the U.S. Coast Guard, was tasked by the U.S. Congress to collect, analyze, and report on ballast water delivery from commercial vessels to the waters of the United States.  The NBIC annually receives ~120,000 reports via multiple streams and in a multitude of formats.
+
+Role:
+1. Design, develop, test, deploy, debug, and expand the database/applications/scripts that comprise the NBIC information system, including:  
+    * receipt of reports via online application, email, and fax 
+    * data extraction/entry from reports received in multiple formats
+    * preparation of data for analysis 
+    * evaluation/scoring of reports
+    * generation of responses for report submissions
+    * quality control systems
+    * management of multiple MySQL databases and scripts for migrating data between instances
+2. Communicate the role and functionality of technical solutions to analysts, managers, and US Coast Guard supervisors.  
+3. Provide training and support for users of technical solutions.
+
+Accomplishments:
+* Oversaw transition from paper to paperless: 
+    * Flipped submission ratio from >90% fax reports to >95% electronic reports.
+* Improved operational efficiency:  
+    * Eliminated 100,000+ report backlog within first year of employment. 
+    * Reduced average time from receipt to processed report from ~10 months to 1.08 days.
+    * Reduced required manpower from 8 to 1.5 full time equivalent positions. 
+* Improved data quality:
+    * Successfully solicited corrections to an average of ~8,000 reports annually.
+    * Effectually eliminated >50 problematic errors from reporting population.
+* Spearheaded implementation of the web application for data submissions.  
+    * Foresaw the advantage of bringing report validation prior to submission and successfully convinced management of this utility.
+    * Personally directed training to learn web application development.  
+    * Effectively lobbied NBIC/US Coast Guard management to alter reporting requirements to allow reporting after arrival, to increase vessel access to networks and adoptability of web application for reporting.
+
+
+------------------------------------------------------------------
+Education
+
+University of California, Berkeley
+Bachelor of Arts in Cognitive Science, emphasis in Neuroscience 
+2002
+
+Computer Science coursework:
+Structure and Interpretation of Computer Programs, Data Structures, Artificial Intelligence
+
+
+------------------------------------------------------------------
+References available
+
+
