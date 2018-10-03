@@ -1,0 +1,45 @@
+Paul Winterbauer
+Cincinnati, Ohio USA
+
+Experience
+
+Smithsonian Institution 
+National Ballast Information Clearinghouse (NBIC)
+IT Specialist: 2005-Present
+
+Role
+* Developed public reporting/data collection web application: https://invasions.si.edu/ballastwater/
+	* Backbone.js, Flask, MySQL
+	* Responsive design
+* Developed internal data processing web application
+	* Backbone.js, Flask, MySQL
+* Managed MySQL relational databases
+	* Schema design, performance tuning, data migration
+	* Developed SQL scripts to create a daily analytic database from the backend database
+* Communicated the role and functionality of technical solutions to analysts, managers, and US Coast Guard supervisors
+* Provided training and support for users of technical solutions
+
+Accomplishments:
+* Oversaw transition from paper to paperless: 
+    * Flipped submission ratio from >90% fax reports to >95% electronic reports.
+* Improved operational efficiency:  
+    * Eliminated 100,000+ report backlog within first year of employment. 
+    * Reduced average time from receipt to processed report from ~10 months to 1.08 days.
+    * Reduced required manpower from 8 to 1.5 full time equivalent positions. 
+* Improved data quality:
+    * Successfully solicited corrections to an average of ~8,000 reports annually.
+    * Effectually eliminated >50 problematic errors from reporting population.
+* Spearheaded implementation of a web application for data submissions.
+    * Foresaw the advantage of bringing report validation prior to submission and successfully convinced management of this utility.
+    * Personally directed training to learn web application development.  
+    * Effectively lobbied NBIC/US Coast Guard management to alter reporting requirements to allow reporting after arrival, to increase vessel access to networks and adoptability of web application for reporting.
+
+Education
+
+2002 B.A. in Cognitive Science, University of California, Berkeley
+
+Skills
+
+Current: Python, Flask, MySQL, Backbone.js, Git
+
+Legacy: VB.NET, VBA
